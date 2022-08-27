@@ -232,7 +232,8 @@ syntax_struct! {
             ],
             [Color::DarkMagenta;
                 "isize","i8","i16","i32","i64","usize","u8","u16","u32","u64","f32","f64",
-                "char","str","bool","T","U","R","F","L","S","Fn","FnOnce","FnMut"
+                "char","str","bool","Fn","FnOnce","FnMut","A","B","C","D","E","F","G","H","I",
+                "J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"
             ]
         },
         multiline_comment: Some(("/*","*/"))
